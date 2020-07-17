@@ -12,7 +12,7 @@
 
 :computer:&nbsp;&nbsp; Featured Projects: [**LinkAce**](https://www.linkace.org/) | [**SplashStats**](https://splashstats.space/) | [**Game Quotes**](https://game-quotes.com/)
 
-:zap:&nbsp;&nbsp; Currently working on: Rewrite of [DevLorem]() in Go.
+:zap:&nbsp;&nbsp; Currently working on: Rewrite of [DevLorem](https://github.com/Kovah/DevLorem) in Go.
 
 <br>
 <hr>
