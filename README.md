@@ -15,4 +15,9 @@ Full Stack Web Developer & DevOps Manager [@taikonauten](https://github.com/taik
 
 ---
 
+How about showing your developer passion to the world with a **fancy face mask with the Github Commit Graph** on it?  
+[Get your mask today](https://www.redbubble.com/shop/ap/55468616?ref=studio-promote) :mask:
+
+---
+
 :star:&nbsp;&nbsp; Become a [Patreon](https://www.patreon.com/Kovah) or [Github Sponsor](https://github.com/sponsors/Kovah) to support my work.
