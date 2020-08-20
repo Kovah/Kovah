@@ -16,7 +16,7 @@ Full Stack Web Developer & DevOps Manager [@taikonauten](https://github.com/taik
 ---
 
 How about showing your developer passion to the world with a **fancy face mask with the Github Commit Graph** on it?  
-[Get your mask today](https://www.redbubble.com/shop/ap/55468616?ref=studio-promote) :mask:
+[Get your mask today](https://www.redbubble.com/i/mask/The-Github-Commit-Graph-by-kovah-de/55468616.9G0D8) :mask:
 
 ---
 
