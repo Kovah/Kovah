@@ -11,7 +11,7 @@ Full Stack Web Developer & DevOps Manager [@taikonauten](https://github.com/taik
 
 :computer:&nbsp;&nbsp; Featured Projects: [**LinkAce**](https://www.linkace.org/) | [**SplashStats**](https://splashstats.space/) | [**DevLorem**](https://github.com/Kovah/DevLorem) | [**Game Quotes**](https://game-quotes.com/) | [**InvoicePlane**](https://invoiceplane.com/)
 
-:zap:&nbsp;&nbsp; Currently learning iOS development with Swift and SwiftUI 
+:zap:&nbsp;&nbsp; Currently learning React by building a web tool for gamers
 
 ---
 
