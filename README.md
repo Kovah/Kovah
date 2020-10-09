@@ -2,16 +2,12 @@
 <h3>Hi! &nbsp;:wave:</h3>
 
 I am Kevin, Web Developer and Open Source Creator.
-  
-Full Stack Web Developer & DevOps Manager [@taikonauten](https://github.com/taikonauten)
 
 ---
 
 :globe_with_meridians:&nbsp;&nbsp; My Websites: [**Portfolio**](https://kovah.de/) | [**Blog**](https://blog.kovah.de/en/)
 
 :computer:&nbsp;&nbsp; Featured Projects: [**LinkAce**](https://www.linkace.org/) | [**SplashStats**](https://splashstats.space/) | [**DevLorem**](https://github.com/Kovah/DevLorem) | [**Game Quotes**](https://game-quotes.com/) | [**InvoicePlane**](https://invoiceplane.com/)
-
-:zap:&nbsp;&nbsp; Currently learning React by building a web tool for gamers
 
 ---
 
