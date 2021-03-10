@@ -7,7 +7,7 @@ I am Kevin, Web Developer and Open Source Creator. Currently working as a Softwa
 
 :globe_with_meridians:&nbsp;&nbsp; My Websites: [**Portfolio**](https://kovah.de/) | [**Blog**](https://blog.kovah.de/en/)
 
-:computer:&nbsp;&nbsp; Featured Projects: [**LinkAce**](https://www.linkace.org/) | [**SplashStats**](https://splashstats.space/) | [**DevLorem**](https://github.com/Kovah/DevLorem) | [**Game Quotes**](https://game-quotes.com/) | [**InvoicePlane**](https://invoiceplane.com/)
+:computer:&nbsp;&nbsp; Featured Projects: [**LinkAce**](https://www.linkace.org/) | [**DevLorem**](https://github.com/Kovah/DevLorem) | [**Game Quotes**](https://game-quotes.com/) | [**InvoicePlane**](https://invoiceplane.com/)
 
 ---
 
