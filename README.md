@@ -1,7 +1,7 @@
-<img src="https://kovah.de/kvh_social_1200x630.jpg" align="right" width="200">
-<h3>Hi! &nbsp;:wave:</h3>
+<img src="https://kovah.de/assets/social-github-2021.png" align="right" width="300">
+<h3>Hi!&nbsp;&nbsp;:wave:</h3>
 
-I am Kevin, Web Developer and Open Source Creator. Currently working as a Software Engineer for Thalia DRS.
+I'm Kevin. Web Engineer and Open Source Creator from Berlin, Germany. I am currently working as a Software Engineer for Thalia DRS.
 
 ---
 
