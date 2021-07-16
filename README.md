@@ -11,9 +11,4 @@ I'm Kevin. Web Engineer and Open Source Creator from Berlin, Germany. I am curre
 
 ---
 
-How about showing your developer passion to the world with a **fancy face mask with the Github Commit Graph** on it?  
-[Get your mask today](https://www.redbubble.com/i/mask/The-Github-Commit-Graph-by-kovah-de/55468616.9G0D8) :mask:
-
----
-
 :star:&nbsp;&nbsp; Become a [Patreon](https://www.patreon.com/Kovah) or [Github Sponsor](https://github.com/sponsors/Kovah) to support my work.
