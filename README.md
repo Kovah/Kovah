@@ -1,7 +1,7 @@
 <img src="https://kovah.de/assets/social-github-2021.png" align="right" width="300">
 <h3>Hi!&nbsp;&nbsp;:wave:</h3>
 
-I'm Kevin. Web Engineer and Open Source Creator from Berlin, Germany. I am currently working as a Software Engineer for Thalia DRS.
+I'm Kevin. Web Engineer and Open Source Creator from Berlin, Germany. I am currently working as a DevOps Engineer for Universal Music Germany.
 
 &nbsp;
 
