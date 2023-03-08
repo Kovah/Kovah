@@ -12,7 +12,7 @@ Besides working on websites and web apps, I take photos from time to time. You c
 
 :globe_with_meridians:&nbsp;&nbsp; My Websites: [**Portfolio**](https://kovah.de/) | [**Blog**](https://blog.kovah.de/en/)
 
-:computer:&nbsp;&nbsp; Featured Projects: [**Versionfeeds.com**](https://versionfeeds.com/) | [**Cloudhiker**](https://cloudhiker.net/) | [**LinkAce**](https://www.linkace.org/) | [**DevLorem**](https://github.com/Kovah/DevLorem) | [**Game Quotes**](https://game-quotes.com/) | [**InvoicePlane**](https://invoiceplane.com/)
+:computer:&nbsp;&nbsp; Featured Projects: [**Versionfeeds**](https://versionfeeds.com/) | [**Cloudhiker**](https://cloudhiker.net/) | [**LinkAce**](https://www.linkace.org/) | [**DevLorem**](https://github.com/Kovah/DevLorem) | [**Game Quotes**](https://game-quotes.com/) | [**InvoicePlane**](https://invoiceplane.com/)
 
 &nbsp;
 
