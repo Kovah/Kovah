@@ -1,12 +1,16 @@
-<h3>Hi!&nbsp;&nbsp;:wave:</h3>
+<h3>Hi!&nbsp;&nbsp;👋</h3>
 
 I'm Kevin. Web Engineer and Open Source Creator from Berlin, Germany.
 
 I am working as a DevOps Engineer for Universal Music Germany.
 
-Since starting with web development in 2008, I created a lot of different projects, including a StumbleUpon successor, a bookmark manager, a popular invoicing software, a web archive for video game quotes and many more.
+Since starting with web development in 2008, I created a lot of different projects, including an internet discovery site, a bookmark manager, a popular invoicing software, a web archive for video game quotes and many more.
 
-Besides working on websites and web apps, I take photos from time to time. You can find most of my photos on [Unsplash](https://unsplash.com/@kovah).
+Besides working on websites and web apps, I take photos from time to time. You can find some of my photos on [Unsplash](https://unsplash.com/@kovah).
+
+&nbsp;
+
+:star:&nbsp;&nbsp; Become a [Patreon](https://www.patreon.com/Kovah) or [Github Sponsor](https://github.com/sponsors/Kovah) to support my work.
 
 &nbsp;
 
@@ -14,6 +18,4 @@ Besides working on websites and web apps, I take photos from time to time. You c
 
 :computer:&nbsp;&nbsp; Featured Projects: [**Versionfeeds**](https://versionfeeds.com/) | [**Cloudhiker**](https://cloudhiker.net/) | [**LinkAce**](https://www.linkace.org/) | [**DevLorem**](https://github.com/Kovah/DevLorem) | [**Game Quotes**](https://game-quotes.com/) | [**InvoicePlane**](https://invoiceplane.com/)
 
-&nbsp;
 
-:star:&nbsp;&nbsp; Become a [Patreon](https://www.patreon.com/Kovah) or [Github Sponsor](https://github.com/sponsors/Kovah) to support my work.
