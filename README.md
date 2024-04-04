@@ -6,7 +6,7 @@ I am working as a DevOps Engineer for Universal Music Germany.
 
 Since starting with web development in 2008, I created a lot of different projects, including an internet discovery site, a bookmark manager, a popular invoicing software, a web archive for video game quotes and many more.
 
-Besides working on websites and web apps, I take photos from time to time. You can find some of my photos on [Unsplash](https://unsplash.com/@kovah).
+Besides working on websites and web apps, I take photos from time to time. You can find most of my photos on [Flickr](https://www.flickr.com/photos/kovah/).
 
 &nbsp;
 
