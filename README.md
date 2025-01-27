@@ -10,7 +10,7 @@ Besides working on websites and web apps, I take photos from time to time. You c
 
 &nbsp;
 
-:star:&nbsp;&nbsp; Become a [Patreon](https://www.patreon.com/Kovah) or [Github Sponsor](https://github.com/sponsors/Kovah) to support my work.
+:star:&nbsp;&nbsp; Support my work via [Patreon](https://www.patreon.com/Kovah), [Github Sponsors](https://github.com/sponsors/Kovah) or [Liberapay](https://liberapay.com/kovah/).
 
 &nbsp;
 
